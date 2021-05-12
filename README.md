@@ -1,6 +1,6 @@
 # satbinclass
 
-This the code repository for the article entitled: "Deep/Transfer Learning with Feature Space Ensemble Networks (FeatSpaceEnsNets) and Average Ensemble Networks (AvgEnsNets) for Change Detection using DInSAR Sentinel-1 and Optical Sentinel-2 Satellite Data Fusion"
+This is the code repository for the article entitled: "Deep/Transfer Learning with Feature Space Ensemble Networks (FeatSpaceEnsNets) and Average Ensemble Networks (AvgEnsNets) for Change Detection using DInSAR Sentinel-1 and Optical Sentinel-2 Satellite Data Fusion" by Z Karim and T. van Zyl.
 
 # Notes
 
