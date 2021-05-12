@@ -9,5 +9,5 @@
 - At an initial stage all the HybridEnsNets were also called AvgEnsNets. When it was realised that some AvgEnsNets that contain a FeatSpaceEnsNet of ResNet50 and ResNet101 (denoted as ResNet50-ResNet101) and other single models are actually hybrid models then the naming was changed in the article. In the results the original naming is still used
 - Will add the Notebooks containing the code, they just need to be cleaned up though.
 - The results are contained in the *model* folder.
-- There was an error in the 1st submission of the article, in Table 1 on pg. 10 all of the HybridEnsNet models include FeatSpaceEnsNet 3 (ResNet50-ResNet101) and not FeatSpaceEnsNet 6.
+- Apologies, there was an error in the 1st submission of the article, in *Table 1 Ensemble definitions* on pg. 10 all of the *HybridEnsNet* models include *FeatSpaceEnsNet 3* (*ResNet50-ResNet101*) and not *FeatSpaceEnsNet 6*.
 
