@@ -12,5 +12,5 @@ This is the code repository for the article entitled: "Deep/Transfer Learning wi
 - At an initial stage all the HybridEnsNets were also called AvgEnsNets. When it was realised that some AvgEnsNets that contain a FeatSpaceEnsNet of ResNet50 and ResNet101 (denoted as ResNet50-ResNet101 in the results file) and other single models are actually hybrid models then the naming was changed in the article. In the results the original naming is still used
 - Notebooks containing the code have been added.
 - The results are contained in the *model* folder.
-- Apologies, there was an error in the 1st submission of the article, in *Table 1 Ensemble definitions* on pg. 10 all of the *HybridEnsNet* models include *FeatSpaceEnsNet 3* (*ResNet50-ResNet101*) and not *FeatSpaceEnsNet 6*.
+- Apologies, there was an error in *Table 1: Ensemble definitions* on pg. 10 in the 1st submission of the article, all of the *HybridEnsNet* models include *FeatSpaceEnsNet 3* (*ResNet50-ResNet101*) and not *FeatSpaceEnsNet 6*.
 
