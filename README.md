@@ -8,5 +8,5 @@
 - Running the initial Notebook will also generate the *y.npy* Numpy database of corresponding binary classification (1 or 0).
 - At an initial stage all the HybridEnsNets were also called AvgEnsNets. When it was realised that some AvgEnsNets that contain a FeatSpaceEnsNet of ResNet50 and ResNet101 (denoted as ResNet50-ResNet101) and other single models are actually hybrid models then the naming was changed in the article. In the results the original naming is still used
 - Will add the Notebooks containing the code, they just need to be cleaned up though.
-- The results are contained in the *Model* folder.
+- The results are contained in the *model* folder.
 
