@@ -4,7 +4,7 @@ This is the code repository for the article entitled: "Deep/Transfer Learning wi
 
 # Notes
 
-- The "Combined Full Results.xlsx" file contains the full testing results.
+- The *Combined Full Results.xlsx* file contains the full testing results.
 - Download the *data.zip* file which contains the fused image data and unzip it: https://drive.google.com/file/d/1sfxayXEWubLtgp-yZbZIgFVeLYi7aO0w/view?usp=sharing 
 - **Warning:** it will unzip into a size of around 8.7GB.
 - Run the Conversion Notebook to package the images into the *X.npy*, *inc_res_X.npy* and *y.npy* Numpy databases which are used as the inputs to all of the other notebooks. The fused image data contains 2 x Sentinel-2 images on 1 July and 16 July 2018, one image is dropped so as to not bias the model towards the RGB data and the data is converted into a suitable format so as to avoid continually reading in the images.
