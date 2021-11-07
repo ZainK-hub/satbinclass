@@ -4,7 +4,8 @@ This is the code repository for the article entitled: "Deep/Transfer Learning wi
 
 To cite: 
 
-'''@Article{rs13214394,
+```
+@Article{rs13214394,
 AUTHOR = {Karim, Zainoolabadien and van Zyl, Terence L.},
 TITLE = {Deep/Transfer Learning with Feature Space Ensemble Networks (FeatSpaceEnsNets) and Average Ensemble Networks (AvgEnsNets) for Change Detection Using DInSAR Sentinel-1 and Optical Sentinel-2 Satellite Data Fusion},
 JOURNAL = {Remote Sensing},
@@ -17,6 +18,7 @@ ISSN = {2072-4292},
 ABSTRACT = {Differential interferometric synthetic aperture radar (DInSAR), coherence, phase, and displacement are derived from processing SAR images to monitor geological phenomena and urban change. Previously, Sentinel-1 SAR data combined with Sentinel-2 optical imagery has improved classification accuracy in various domains. However, the fusing of Sentinel-1 DInSAR processed imagery with Sentinel-2 optical imagery has not been thoroughly investigated. Thus, we explored this fusion in urban change detection by creating a verified balanced binary classification dataset comprising 1440 blobs. Machine learning models using feature descriptors and non-deep learning classifiers, including a two-layer convolutional neural network (ConvNet2), were used as baselines. Transfer learning by feature extraction (TLFE) using various pre-trained models, deep learning from random initialization, and transfer learning by fine-tuning (TLFT) were all evaluated. We introduce a feature space ensemble family (FeatSpaceEnsNet), an average ensemble family (AvgEnsNet), and a hybrid ensemble family (HybridEnsNet) of TLFE neural networks. The FeatSpaceEnsNets combine TLFE features directly in the feature space using logistic regression. AvgEnsNets combine TLFEs at the decision level by aggregation. HybridEnsNets are a combination of FeatSpaceEnsNets and AvgEnsNets. Several FeatSpaceEnsNets, AvgEnsNets, and HybridEnsNets, comprising a heterogeneous mixture of different depth and architecture models, are defined and evaluated. We show that, in general, TLFE outperforms both TLFT and classic deep learning for the small dataset used and that larger ensembles of TLFE models do not always improve accuracy. The best performing ensemble is an AvgEnsNet (84.862%) comprised of a ResNet50, ResNeXt50, and EfficientNet B4. This was matched by a similarly composed FeatSpaceEnsNet with an F1 score of 0.001 and variance of 0.266 less. The best performing HybridEnsNet had an accuracy of 84.775%. All of the ensembles evaluated outperform the best performing single model, ResNet50 with TLFE (83.751%), except for AvgEnsNet 3, AvgEnsNet 6, and FeatSpaceEnsNet 5. Five of the seven similarly composed FeatSpaceEnsNets outperform the corresponding AvgEnsNet.},
 DOI = {10.3390/rs13214394}
 }
+```
 
 
 
