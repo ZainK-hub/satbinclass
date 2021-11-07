@@ -3,7 +3,8 @@
 This is the code repository for the article entitled: "Deep/Transfer Learning with Feature Space Ensemble Networks (FeatSpaceEnsNets) and Average Ensemble Networks (AvgEnsNets) for Change Detection using DInSAR Sentinel-1 and Optical Sentinel-2 Satellite Data Fusion" by Z Karim and T. van Zyl published in the *Artificial Intelligence Methods Applied to Urban Remote Sensing and GIS)* Special Issue of the *MDPI Remote Sensing* journal: https://www.mdpi.com/2072-4292/13/21/4394 
 
 To cite: 
-@Article{rs13214394,
+
+>@Article{rs13214394,
 AUTHOR = {Karim, Zainoolabadien and van Zyl, Terence L.},
 TITLE = {Deep/Transfer Learning with Feature Space Ensemble Networks (FeatSpaceEnsNets) and Average Ensemble Networks (AvgEnsNets) for Change Detection Using DInSAR Sentinel-1 and Optical Sentinel-2 Satellite Data Fusion},
 JOURNAL = {Remote Sensing},
