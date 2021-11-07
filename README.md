@@ -4,7 +4,7 @@ This is the code repository for the article entitled: "Deep/Transfer Learning wi
 
 To cite: 
 
-```@Article{rs13214394,
+'''@Article{rs13214394,
 AUTHOR = {Karim, Zainoolabadien and van Zyl, Terence L.},
 TITLE = {Deep/Transfer Learning with Feature Space Ensemble Networks (FeatSpaceEnsNets) and Average Ensemble Networks (AvgEnsNets) for Change Detection Using DInSAR Sentinel-1 and Optical Sentinel-2 Satellite Data Fusion},
 JOURNAL = {Remote Sensing},
